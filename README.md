@@ -32,7 +32,6 @@
 <a align="center" href="https://github.com/YanaKholod">![GitHub](https://img.shields.io/badge/-Yana-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/MisterF1x">![GitHub](https://img.shields.io/badge/-Oleksandr-05122A?style=flat&logo=github)</a>
 <a align="center" href="https://github.com/MihailLeontev">![GitHub](https://img.shields.io/badge/-Mihail-05122A?style=flat&logo=github)</a>
-<a align="center" href="https://github.com/Sheluvboog">![GitHub](https://img.shields.io/badge/-Bohdan-05122A?style=flat&logo=github)</a>
 
 </span>
 
@@ -48,7 +47,7 @@ The project is implemented in Vanilla JavaScript and working with:
 We are students of the FullStack Developer course [<img src="https://img.shields.io/badge/Go-IT-orange" />](https://goit.ua), the project is written at the end of the study of JavaScript.
 
 
-## How to use Filmoteka?
+## How to use FilmFrenzy?
 
 📽 It is the site for searching and collecting movies.
 
