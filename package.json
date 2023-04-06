@@ -1,0 +1,35 @@
+{
+  "name": "parcel-project-template",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://dmitryberesten.github.io/filmoteka",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /filmoteka/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitryberesten/filmoteka.git"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "basiclightbox": "^5.0.4",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6",
+    "swiper": "^9.2.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
